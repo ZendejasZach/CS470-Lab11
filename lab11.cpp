@@ -11,3 +11,15 @@
 *    3. What assumptions about input (file or user) is made
 *    4. Citations if the algorithm was borrowed or inspired from any source
 ************************************************************************/
+
+#include <string>   // easier input
+using namespace std;
+
+int main()
+{
+   string input;
+
+    // first prompt the user for their password
+
+
+}
