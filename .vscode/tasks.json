@@ -16,7 +16,7 @@
         "args": [
           "-g",
           "-o",
-          "/home/zach/Documents/School/CS470/Lab11/CS470-Lab11/lab11.cpp",
+          "/home/zach/School/CS470/CS470-Lab11/lab11.out",
           "lab11.cpp"
         ],
         "group": {
